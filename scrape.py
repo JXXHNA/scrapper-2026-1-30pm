@@ -8,6 +8,13 @@
 # git config --global user.name "Ramesh Pradhan"
 # git config --global user.email "pyrameshpradhan@gmail.com"
 
+# git init
+# git status=> if you want to check what are the status of files
+# git add .  #track all files in current directory
+# git commit -m "Your messages" #what u did
+#create repository in github
+#copy paste git code from github
+
 # git => version control system
 
 import csv
